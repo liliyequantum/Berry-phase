@@ -2,7 +2,7 @@
 An experimental scheme for determining the Berry phase in two-dimensional quantum materials with a flat band. For more details, you can read the full paper on arXiv [https://arxiv.org/abs/2402.15596]
 
 # Usage direction
-1. The data generated from this project is shared on Zenodo. You can access it using the following link:
+1. The data generated from this project is shared on Zenodo. You can access it using the following link: [https://zenodo.org/records/12575195]
 2. The relevant directories are as follows:
    `data_strong` and `data_weak` under `weak_strong_t_alpha`
    `data_J_t` under `BO_t`
