@@ -13,15 +13,14 @@ An experimental scheme for determining the Berry phase in two-dimensional quantu
 If you use this code or simulated data, please cite:
 
 ```bibtex
-@dataset{ye_2024_berry_phase_data,
-  author       = {Ye, Li-Li},
-  title        = {An experimental scheme for determining the Berry 
-                  phase in two-dimensional quantum materials with a 
-                  flat band},
-  version      = {v1},
-  year         = {2024},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.12575195},
-  url          = {https://doi.org/10.5281/zenodo.12575195}
+@article{ye2024experimental,
+  title={Experimental scheme for determining the Berry phase in two-dimensional quantum materials with a flat band},
+  author={Ye, Li-Li and Wang, Cheng-Zhen and Lai, Ying-Cheng},
+  journal={Physical Review B},
+  volume={110},
+  number={7},
+  pages={075108},
+  year={2024},
+  publisher={APS}
 }
 ```
