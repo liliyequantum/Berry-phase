@@ -24,7 +24,7 @@ If you use this code, please cite:
 }
 ```
 
-If you use this code's simulation data, please cite:
+If you use this code's simulated data, please cite:
 
 ```bibtex
 @dataset{ye_2024_berry_phase_data,
