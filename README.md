@@ -28,7 +28,7 @@ If you use this code's simulation data, please cite:
 
 ```bibtex
 @dataset{ye_2024_berry_phase_data,
-  author       = {Ye, Lili},
+  author       = {Ye, Li-Li},
   title        = {An experimental scheme for determining the Berry 
                   phase in two-dimensional quantum materials with a 
                   flat band},
