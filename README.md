@@ -9,4 +9,17 @@ An experimental scheme for determining the Berry phase in two-dimensional quantu
    These datasets can be generated using the `.m` files located in the `weak_strong_t_alpha` and `BO_t` directories, respectively.
 3. The data `filter_hexagon_cut_width_0.001_p_x_size_1200_p_y_size_1050.mat`, also shared on Zenodo, should be placed in both the `Bloch_t` and `Bloch_alpha directories`.
 
+## Citation
+If you use this code, please cite:
 
+```bibtex
+@software{Ye_2026,
+  author       = {Ye, Li-Li},
+  title        = {Berry-phase},
+  version      = {v1.0},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.21418337},
+  url          = {https://doi.org/10.5281/zenodo.21418337}
+}
+```
