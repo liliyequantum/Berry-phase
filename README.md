@@ -10,21 +10,7 @@ An experimental scheme for determining the Berry phase in two-dimensional quantu
 3. The data `filter_hexagon_cut_width_0.001_p_x_size_1200_p_y_size_1050.mat`, also shared on Zenodo, should be placed in both the `Bloch_t` and `Bloch_alpha directories`.
 
 ## Citation
-If you use this code, please cite:
-
-```bibtex
-@software{Ye_2026,
-  author       = {Ye, Li-Li},
-  title        = {Berry-phase},
-  version      = {v1.0},
-  year         = {2026},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.21418337},
-  url          = {https://doi.org/10.5281/zenodo.21418337}
-}
-```
-
-If you use this code's simulated data, please cite:
+If you use this code or simulated data, please cite:
 
 ```bibtex
 @dataset{ye_2024_berry_phase_data,
