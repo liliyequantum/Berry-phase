@@ -23,3 +23,19 @@ If you use this code, please cite:
   url          = {https://doi.org/10.5281/zenodo.21418337}
 }
 ```
+
+If you use this code's simulation data, please cite:
+
+```bibtex
+@dataset{ye_2024_berry_phase_data,
+  author       = {Ye, Lili},
+  title        = {An experimental scheme for determining the Berry 
+                  phase in two-dimensional quantum materials with a 
+                  flat band},
+  version      = {v1},
+  year         = {2024},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.12575195},
+  url          = {https://doi.org/10.5281/zenodo.12575195}
+}
+```
